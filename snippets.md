@@ -17,7 +17,7 @@ Also, when copying text from a word processor (e.g. Word or Pages) to an EN copy
 </div>
 ```
 
-Just upload your image to a copy box and place this wrapper around it.
+Just upload your image to a copy box and place this wrapper around it. There is no optimal size for the pic. If it's too small, you'll simply see pixel art. What is more important is the format: ideally the image has a nearly square format (not too wide or too tall). In way that the image works for wide screens (desktop) as well as for mobile phones (tall screens). 
 
 ## background info
 
@@ -125,6 +125,8 @@ These are social share buttons for Facebook, Twitter and email sharing:
 Make sure to replace the `{{placeholder parts}}` with the real urls and share texts! The name between `<span>name</span>` is what's displayed on the button itself, the `title` pops up when hovering over the button. (`<i></i>` makes space for the icon, which will be inserted automatically.)
 
 The email share action currently is called "More Onion Email a Friend Test".
+
+Using a hashtag in a share tweet needs to be done using %25 to replace the hastag.
 
 ### submission tracking
 
